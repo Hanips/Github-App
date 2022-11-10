@@ -1,2 +1,2 @@
-# Github-App
+# Github-User-App
 Github App Dicoding Submission
