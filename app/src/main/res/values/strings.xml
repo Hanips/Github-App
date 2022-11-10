@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="hint">Cari Pengguna</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="repos">Repository</string>
+    <string name="loc">Location</string>
+    <string name="tv">TextView</string>
+    <string name="tv_detail">Detail User</string>
+    <string name="photo">Photo</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="theme">Theme</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="night_mode">Night Mode</string>
+</resources>
